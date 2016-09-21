@@ -1,0 +1,4 @@
+name: JumpPads
+autohr: minemax
+version: 1.0
+main: me.minemax.JumpPads.JumpPads
